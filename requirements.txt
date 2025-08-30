@@ -1,0 +1,11 @@
+streamlit
+streamlit-chat
+langchain
+langchain-core
+langchain-community
+openai
+faiss-cpu
+bcrypt
+pandas
+matplotlib
+tiktoken
